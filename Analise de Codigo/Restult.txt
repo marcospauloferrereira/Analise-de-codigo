@@ -1,0 +1,15 @@
+
+
+Path = C:\Users\Marcos\eclipse-workspace\Analise de Codigo\.settings
+
+Path = C:\Users\Marcos\eclipse-workspace\Analise de Codigo\bin
+
+Path = C:\Users\Marcos\eclipse-workspace\Analise de Codigo\src
+	 C:\Users\Marcos\eclipse-workspace\Analise de Codigo\src\ContaLinhas.java = 182 linhas
+
+
+
+=============================================
+Sub-pastas do projeto = 3 pastas
+Classes do projeto = 1 classes
+Linhas de codigo do projeto = 182 linhas
